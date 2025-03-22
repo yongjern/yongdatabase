@@ -1,56 +1,120 @@
-# 如何在马来西亚大学英语测试（MUET）中取得高分
+### **1. Overview of MUET**  
+MUET is an English proficiency test used for university admissions in Malaysia and some neighboring countries. It is administered by the **Malaysian Examinations Council (MEC)** and is designed to assess English language ability in **four** main components:  
 
-马来西亚大学英语测试（MUET）是评估学生英语能力的重要考试，分为听力、口语、阅读和写作四个部分。以下是针对每个部分的高分策略：
+1. **Listening (25%)**  
+2. **Speaking (25%)**  
+3. **Reading (25%)**  
+4. **Writing (25%)**  
 
-## 听力部分
+MUET is graded on a **band scale from 1 to 5+**:  
+- **Band 1**: Very limited user  
+- **Band 2**: Limited user  
+- **Band 3**: Modest user  
+- **Band 4**: Competent user  
+- **Band 5**: Proficient user  
+- **Band 5+**: Expert user (introduced in 2021)  
 
-- **分数**：45分
-- **建议作答时间**：30分钟
+The minimum MUET requirement for university admission depends on the **course and university** you are applying to.
 
-- **熟悉口音**：MUET的听力材料可能包含不同的英语口音。通过收听各种英语节目，如新闻、播客和演讲，熟悉不同口音。例如，可以收听BBC新闻、NPR播客和TED演讲，了解英式、美式和其他口音的差异。
-- **练习速记**：在听力考试中，速记关键信息至关重要。练习使用缩写和符号快速记录要点。例如，可以用“gov”代表“government”，用“edu”代表“education”。
-- **预测内容**：在听之前，浏览问题，预测可能的答案类型，有助于更有针对性地聆听。例如，如果问题涉及数字，可以特别注意听录音中的数字信息。
+---
 
-## 口语部分
+### **2. MUET Test Format & Tips**  
 
-- **分数**：45分
-- **建议作答时间**：30分钟
+#### **Listening (Paper Code: 800/1) – 25%**  
+- Duration: **50 minutes**  
+- **Format**: 5 parts, 30 questions  
+- **Types of questions**:  
+  - Multiple-choice  
+  - Gap-fill  
+  - True/False  
+  - Short-answer  
 
-- **扩大词汇量**：丰富的词汇有助于更准确地表达观点。每天学习新单词，并练习在句子中使用它们。例如，可以使用手机应用程序如Quizlet或Anki来记忆新单词。
-- **练习流利度**：通过与朋友用英语交流或参加英语角活动，提高口语流利度。例如，可以每天与朋友进行10分钟的英语对话，或参加当地的英语角活动。
-- **结构化表达**：在表达观点时，使用清晰的结构，如总分总或按点陈述，确保逻辑清晰。例如，可以使用“首先，其次，最后”这样的结构来组织自己的发言。
+✅ **Tips**:  
+- Pay attention to keywords.  
+- Listen for main ideas and supporting details.  
+- Practice with online MUET audio recordings.
 
-## 阅读部分
+---
 
-- **分数**：120分
-- **建议作答时间**：90分钟
+#### **Speaking (Paper Code: 800/2) – 25%**  
+- Duration: **30 minutes**  
+- **Format**: 2 tasks  
+  - **Task A** (Individual Presentation) – Speak for **2 minutes** on a given topic.  
+  - **Task B** (Group Discussion) – Discuss a topic with **3 other candidates** for **10 minutes**.  
 
-- **提高阅读速度**：定期练习快速阅读，抓住文章主旨和关键信息。例如，可以使用计时器，每天阅读一篇短文，并尝试在规定时间内完成。
-- **理解不同文本类型**：熟悉各种文本类型，如议论文、说明文和叙述文，了解其结构和特点。例如，可以阅读报纸上的社论、科学杂志上的说明文和小说中的叙述文。
-- **扩大阅读范围**：阅读各种题材的英语材料，如报纸、杂志和学术文章，增强理解能力。例如，可以订阅《纽约时报》、阅读《国家地理》杂志和浏览学术期刊上的文章。
+✅ **Tips**:  
+- Speak clearly and confidently.  
+- Use good vocabulary and grammar.  
+- Maintain eye contact and interact actively with other candidates.
 
-## 写作部分
+---
 
-- **分数**：90分
-- **建议作答时间**：90分钟
+#### **Reading (Paper Code: 800/3) – 25%**  
+- Duration: **75 minutes**  
+- **Format**: 7 parts, 40 questions  
+- **Types of questions**:  
+  - Multiple-choice  
+  - Information matching  
+  - True/False  
 
-- **掌握写作格式**：熟悉不同类型文章的格式，如报告、文章和信件，确保格式正确。例如，可以参考写作指南书籍或在线资源，了解不同类型文章的格式要求。
-- **练习组织结构**：确保文章有清晰的引言、主体和结论，每段讨论一个要点。例如，可以在写作练习中，先列出文章的大纲，然后根据大纲进行写作。
-- **多样化句型**：使用不同的句型结构，如简单句、复合句和复杂句，增加文章的深度和可读性。例如，可以在写作中尝试使用定语从句、状语从句和名词性从句。
+✅ **Tips**:  
+- Skim the passage first for main ideas.  
+- Underline keywords in the questions.  
+- Manage your time efficiently.
 
-## 综合建议
+---
 
-- **模拟考试**：定期进行全真模拟考试，熟悉考试时间和题型，提高应试技巧。例如，可以使用MUET模拟试卷，按照正式考试的时间安排进行练习。
-- **分析错误**：仔细分析每次练习或模拟考试中的错误，找出薄弱环节并针对性改进。例如，可以记录下每次考试中的错误类型，并重点复习相关知识点。
-- **保持积极心态**：考试时保持冷静，自信应对，有助于发挥最佳水平。例如，可以通过深呼吸和积极的自我暗示来缓解考试紧张情绪。
+#### **Writing (Paper Code: 800/4) – 25%**  
+- Duration: **75 minutes**  
+- **Format**: 2 tasks  
+  - **Task 1** (Report Writing) – Interpret data (150-200 words).  
+  - **Task 2** (Essay Writing) – Write an argumentative/discursive essay (250 words).  
 
-## MUET 等级
+✅ **Tips**:  
+- Organize your points well (introduction, body, conclusion).  
+- Use a variety of sentence structures and vocabulary.  
+- Proofread for grammar mistakes.  
 
-- **Band 1**：0-99分
-- **Band 2**：100-139分
-- **Band 3**：140-179分
-- **Band 4**：180-219分
-- **Band 5**：220-259分
-- **Band 6**：260-300分
+---
 
-通过系统的准备和持续的练习，您将有更大机会在MUET考试中取得高分。祝您考试顺利！
+### **3. MUET Band Score & Interpretation**  
+
+| **Band**  | **Score Range**  | **Description** |
+|-----------|----------------|----------------|
+| **Band 1**  | 0 – 99  | Very weak in English |
+| **Band 2**  | 100 – 139  | Limited understanding |
+| **Band 3**  | 140 – 179  | Average English user |
+| **Band 4**  | 180 – 219  | Good English user |
+| **Band 5**  | 220 – 259  | Fluent and competent |
+| **Band 5+** | 260 – 300  | Highly proficient (near native-like) |
+
+---
+
+### **4. How to Prepare for MUET?**  
+📚 **Study Materials**  
+- **Official MUET textbooks & past papers**  
+- **Online mock tests & exercises**  
+- **English newspapers & journals**  
+
+🎧 **Listening Practice**  
+- Listen to **BBC News**, TED Talks, and podcasts.  
+- Watch **English movies with subtitles**.  
+
+🗣 **Speaking Practice**  
+- Practice discussing topics with friends.  
+- Record yourself and listen to improve pronunciation.  
+
+📖 **Reading Practice**  
+- Read online articles, journals, and books.  
+- Highlight important words & improve vocabulary.  
+
+✍️ **Writing Practice**  
+- Write essays and get feedback.  
+- Practice summarizing news reports.
+
+---
+
+### **5. MUET Registration & Exam Dates (2025)**  
+- **Registration**: Online at MEC’s official website  
+- **Exam Sessions**: March, July, November  
+- **Fees**: Around RM100 – RM150  
